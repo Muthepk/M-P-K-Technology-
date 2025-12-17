@@ -1,0 +1,7 @@
+{
+  "name": "M P K Technology",
+  "description": "A comprehensive platform for earning tasks, spiritual learning via Bhagavad Gita, and user management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
